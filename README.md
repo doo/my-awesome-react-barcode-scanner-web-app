@@ -1,4 +1,4 @@
-# My Awesome React Web App
+# My Awesome React Barcode Scanner Web App
 
 A simple React Native demo app based on the tutorial in the blog post 
 ["<TODO: link>"](https://scanbot.io/blog/<path>/).
