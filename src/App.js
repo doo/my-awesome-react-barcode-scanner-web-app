@@ -73,7 +73,7 @@ export default class App extends React.Component {
       <div>
         <div
           id='barcode-scanner-view'
-          style={{ height: "50%", width: "50%" }}>
+          style={{ height: "70%", width: "70%" }}>
         </div>
         {barcodeText}
       </div>
