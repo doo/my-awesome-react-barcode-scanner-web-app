@@ -1,7 +1,7 @@
 # My Awesome React Barcode Scanner Web App
 
 A simple React Native demo app based on the tutorial in the blog post 
-["<TODO: link>"](https://scanbot.io/blog/<path>/).
+["React Barcode Reader Tutorial and Examples"](https://scanbot.io/blog/react-barcode-reader-tutorial/).
 
 For a **full** example project which demonstrates **all** API methods of the Scanbot Web SDK
 see the repo [scanbot-sdk-example-web](https://github.com/doo/scanbot-sdk-example-web).
